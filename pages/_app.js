@@ -7,7 +7,7 @@ import { Navbar, Footer } from '../components';
 const MyApp = ({ Component, pageProps }) => (
     <ThemeProvider attribute="class">
         <Head>
-          <title>Crypto Chat</title>
+          <title>Crypto DAO</title>
           <meta name="viewport" content="initial-scale=1.0, width=device-width" />
         </Head>
       <div className="dark:bg-nft-dark bg-white min-h-screen">
